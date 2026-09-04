@@ -1,6 +1,7 @@
 import random
 
 print("SELAMAT DATANG DI TEBAK KAMAR KUCING")
+print("SELAMAT BERJUANG SUKSES")
 posisi_kucing = random.randint(1,5)
 
 nama_pemain = input("masukan nama anda:")
