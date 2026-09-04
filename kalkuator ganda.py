@@ -1,3 +1,6 @@
+print("KALKUATOR GANDA")
+
+
 nomor1 = float(input("masukan nomor = "))
 operator = input("masukan operator ( + - * )").strip()
 nomor2 = float(input("masukan nomor = "))
